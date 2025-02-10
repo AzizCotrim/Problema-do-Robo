@@ -1,0 +1,14 @@
+D:\PP\ProblemaRobos\ProblemaRobos\obj\Debug\net8.0\ProblemaRobos.GeneratedMSBuildEditorConfig.editorconfig
+D:\PP\ProblemaRobos\ProblemaRobos\obj\Debug\net8.0\ProblemaRobos.AssemblyInfoInputs.cache
+D:\PP\ProblemaRobos\ProblemaRobos\obj\Debug\net8.0\ProblemaRobos.AssemblyInfo.cs
+D:\PP\ProblemaRobos\ProblemaRobos\obj\Debug\net8.0\ProblemaRobos.csproj.CoreCompileInputs.cache
+D:\PP\ProblemaRobos\ProblemaRobos\bin\Debug\net8.0\ProblemaRobos.exe
+D:\PP\ProblemaRobos\ProblemaRobos\bin\Debug\net8.0\ProblemaRobos.deps.json
+D:\PP\ProblemaRobos\ProblemaRobos\bin\Debug\net8.0\ProblemaRobos.runtimeconfig.json
+D:\PP\ProblemaRobos\ProblemaRobos\bin\Debug\net8.0\ProblemaRobos.dll
+D:\PP\ProblemaRobos\ProblemaRobos\bin\Debug\net8.0\ProblemaRobos.pdb
+D:\PP\ProblemaRobos\ProblemaRobos\obj\Debug\net8.0\ProblemaRobos.dll
+D:\PP\ProblemaRobos\ProblemaRobos\obj\Debug\net8.0\refint\ProblemaRobos.dll
+D:\PP\ProblemaRobos\ProblemaRobos\obj\Debug\net8.0\ProblemaRobos.pdb
+D:\PP\ProblemaRobos\ProblemaRobos\obj\Debug\net8.0\ProblemaRobos.genruntimeconfig.cache
+D:\PP\ProblemaRobos\ProblemaRobos\obj\Debug\net8.0\ref\ProblemaRobos.dll
